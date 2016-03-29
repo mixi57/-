@@ -11,3 +11,7 @@ Your algorithm should have a linear runtime complexity. Could you implement it w
 第一行输入一个数n，代表数组的长度，接下来一行输入数组A[n],(输入的数组必须满足问题描述的要求),最后输出只出现一次的数。<br>
 要求：
 你的算法只能是线性时间的复杂度，并且不能使用额外的空间哦～
+
+
+#解法分析
+提示：位运算
